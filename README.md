@@ -23,9 +23,12 @@ I'm a <b>front-end developer</b> with 1 years+ of professional experience.
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://nextjs.org" target="_blank"> <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/nextjs.svg" alt="redux" width="40" height="40"/> </a>
+  <a href="https://nextjs.org" target="_blank"> <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/nextjs.svg" alt="next" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://git-scm.com" target="_blank"> <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/git.svg" alt="redux" width="40" height="40"/> </a>
+  <a href="https://git-scm.com" target="_blank"> <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/git.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://docker.com" target="_blank"> <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/docker.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io/ru" target="_blank"> <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/kubernetes.svg" alt="k8s" width="40" height="40"/> </a>
+  <a href="https://www.figma.com" target="_blank"> <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/figma.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
 
