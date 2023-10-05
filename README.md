@@ -2,7 +2,7 @@
 
 <h4>A frontend developer from Russia</h4>
 
-I'm a <b>front-end developer</b> with 1 years+ of professional experience.
+I'm a <b>front-end developer</b> with 2 years+ of professional experience.
 
 <h4>What I know</h4>
 
