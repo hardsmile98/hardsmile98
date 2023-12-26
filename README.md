@@ -34,7 +34,6 @@ I'm a <b>front-end developer</b> with 2 years+ of professional experience.
 
 - 🔭 I’m currently working in [Carprice](https://carprice.ru)
 - 📫 How to reach me **deniskotelev@bk.ru**
-- 🔥 Visit [my website](https://deniskotelev.site)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardsmile98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
